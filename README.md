@@ -1,2 +1,2 @@
 # Pagina-de-Receita
-Projeto Fruta &amp; Fruto feito com HTML, CSS no curso da Rocketseat.
+Projeto Página de Receita feito com HTML, CSS no curso da Rocketseat.
